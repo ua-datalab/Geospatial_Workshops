@@ -10,24 +10,22 @@ Jan. 16 - April 23, 2024
 No session Spring Break March 5, 2024
 
 
-* Intro to Geospatial Data Science in python (tell about important python libraries and show some basic tutorial)
-* Intro to Geospatial Data Science in R (tell about important R packages and show some basic tutorial)
-* Exploring the Data-Rich World of Earth and Environmental Science
-* Cloud Native Introduction and Concepts
-* Cloud Optimized Geotiff (what is it; how to create it using GDAL; how to upload them to Cyverse Data Store and stream out to applications)
-* Cloud optimized geotiff Jupyter Notebook
-* Cloud optimized point clouds (what are they; how to create them using pdal; how to upload them to Cyverse Data Store and stream them out)
-* Cloud optiminzed point cloud Jupyter notebook
-* Spatio Temporal Asset Catalogs (what they are; who is using them; how to navigate them with python API calls)
-* Introduction to Zarr and Xarray
-* Using Cyverse for geospatial data science
-* Intro to Google Earth Engine
-* Intro to Microsoft Planetary Computer
-* Containerized geospatial processing pipeline
-* Planet Data
-* Intro to Resource Mapping with Drones
-* OpenDroneMap and WebODM
-* How to get a drone license and other legal topics
-* Basics of photogrammetry and LiDAR
-* Plan and fly an autonomous drone mission (hands-on)
-* 
+### Intro to Geospatial Data Science
+ (Tuesdays at 3PM)
+| Date |  Topic |
+| :--: | :-- |
+|   01/16  |   Intro to Geospatial Data Science | 
+| 01/23 |  File Data Formats: Raster & Vector|
+|  01/30   |  Visualization Libraries  |
+|    02/06 |   Intro Xarray & Zarr | 
+|   02/13  | Cloud Native   |
+|    02/20 |  COGs - Geotiff  | 
+|   02/27  |  COPC - Point Clouds | 
+|   03/05 |   **Spring break** | 
+|    03/12 |   STAC | 
+|    03/19 |  Google Earth Engine  | 
+|    03/26 |   Planet Data | 
+|   04/02  | Microsoft Planetary Computer | 
+|    04/09 |  OpenDroneMap & WebODM   | 
+|   04/16  |  Drone imagery analysis  | 
+|    04/23 |   Containerized Pipelines |
