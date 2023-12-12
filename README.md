@@ -1,11 +1,14 @@
 ## Geospatial Data Science Workshop Ideas (each 1 hour)
 
 Weekly Workshop
-Day and time? Wednesday 1 pm?
+Tuesdays 2 pm 
 In-person and on Zoom
 Weaver Science-Engineering Library Room 212
-Start Date? End Date?
-DSI Calendar?
+
+Jan. 16 - April 23, 2024
+14 sessions
+No session Spring Break March 5, 2024
+
 
 * Intro to Geospatial Data Science in python (tell about important python libraries and show some basic tutorial)
 * Intro to Geospatial Data Science in R (tell about important R packages and show some basic tutorial)
