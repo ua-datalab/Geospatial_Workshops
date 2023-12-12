@@ -1,12 +1,15 @@
 ## Geospatial Data Science Workshop Ideas (each 1 hour)
 
-Weekly Workshop
-Tuesdays 2 pm 
+Weekly Workshop - Tuesdays 2 pm 
+
 In-person and on Zoom
+
 Weaver Science-Engineering Library Room 212
 
 Jan. 16 - April 23, 2024
+
 14 sessions
+
 No session Spring Break March 5, 2024
 
 
