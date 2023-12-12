@@ -1,4 +1,7 @@
-## Geospatial Data Science Workshop Ideas (each 1 hour)
+## Geospatial Data Science Workshop 
+
+Step out of the ESRI ecosystem and discover the latest trends in geospatial data science where open source tools, cloud technologies, and the proliferation of data sources are are innovating Earth Observation and environmental monitoring. 
+
 
 Weekly Workshop - Tuesdays 2 pm 
 
@@ -14,7 +17,7 @@ No session Spring Break March 5, 2024
 
 
 ### Intro to Geospatial Data Science
- (Tuesdays at 3PM)
+ (Tuesdays at 2PM Arizona Time)
 | Date |  Topic |
 | :--: | :-- |
 |   01/16  |   Intro to Geospatial Data Science | 
