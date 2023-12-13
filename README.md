@@ -15,8 +15,6 @@ Jan. 16 - April 23, 2024
 
 No session Spring Break March 5, 2024
 
-
-### Intro to Geospatial Data Science
  (Tuesdays at 2PM Arizona Time)
 | Date |  Topic |
 | :--: | :-- |
