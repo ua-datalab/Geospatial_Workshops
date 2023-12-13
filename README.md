@@ -7,13 +7,19 @@
 | Where | Weaver Science-Engineering Library Room 212 |
 | Virtual Access | Zoom link to follow |
 
+## About the Workshop 
 Step out of conventional GIS frameworks and discover the latest trends in geospatial data science where open tools, cloud technologies, and the proliferation of sensor data are innovating earth observation and environmental monitoring. 
 
-This emersive hands-on workshop series will guide you through essential geospatial python libraries, introduce you to cloud-native formats, show you how to harness cloud computing platforms, and help you build geospatial analyis pipelines. The series is expert-led by educators at the [University of Arizona Data Science Institute](https://datascience.arizona.edu/) and [Cyverse](https://cyverse.org/).
+This emersive hands-on workshop series will guide you through essential geospatial python libraries, introduce you to cloud-native formats, show you how to harness cloud computing platforms, and help you build geospatial analyis pipelines. 
 
+The series is expert-led by educators at the [University of Arizona Data Science Institute](https://datascience.arizona.edu/) and [Cyverse](https://cyverse.org/).
+
+## Prerequisites
 All fields and skill levels are welcome to attend, though basic knowledge of scripting languages (python/R) and familiarity with command line tools will be helpful. 
 
 Documentation for each lesson is found on the repository wiki https://github.com/ua-datalab/Geospatial_Workshops/wiki
+
+## Schedule
 
 | Date |  Topic |
 | :--: | :-- |
