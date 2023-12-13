@@ -1,9 +1,9 @@
 # NextGen Geospatial 
 ## Geospatial Data Science Workshop Series at the University of Arizona
-|  Hi     |   Hello       |
+|      |         |
 |  --- | ----  |
 | Dates | Jan. 16 - April 23, 2024 |
-| When | Tuesdays 2 pm Arizona Time | 
+| When | Tuesdays 2-3 pm Arizona Time | 
 | Where | Weaver Science-Engineering Library Room 212 |
 | Virtual Access | Zoom link to follow |
 
