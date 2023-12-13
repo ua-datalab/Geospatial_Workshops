@@ -4,13 +4,15 @@
 |  --- | ----  |
 | Dates | Jan. 16 - April 23, 2024 |
 | When | Tuesdays 2-3 pm Arizona Time | 
-| Where | Weaver Science-Engineering Library Room 212 |
+| Where | Weaver Science-Engineering Library Room 212 & Zoom |
 | Virtual Access | Zoom link to follow |
 
 ## About the Workshop 
 Step out of conventional GIS frameworks and discover the latest trends in geospatial data science where open tools, cloud technologies, and the proliferation of sensor data are innovating earth observation and environmental monitoring. 
 
 This emersive hands-on workshop series will guide you through essential geospatial python libraries, introduce you to cloud-native formats, show you how to harness cloud computing platforms, and help you build geospatial analyis pipelines. 
+
+The series is **FREE** and open to any University of Arizona personnel and is taylored for graduate students, postdocs, and early career faculty looking to expand their geospatial skills. 
 
 The series is expert-led by educators at the [University of Arizona Data Science Institute](https://datascience.arizona.edu/) and [Cyverse](https://cyverse.org/).
 
