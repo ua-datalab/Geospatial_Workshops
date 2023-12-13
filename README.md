@@ -1,6 +1,6 @@
-## Geospatial Data Science Workshop 
+## NextGen Geospatial 
 
-Step out of the ESRI ecosystem and discover the latest trends in geospatial data science where open source tools, cloud technologies, and the proliferation of data sources are are innovating Earth Observation and environmental monitoring. 
+Step out of conventional GIS frameworks and discover the latest trends in geospatial data science where open tools, cloud technologies, and the proliferation of sensor data are innovating earth observation and environmental monitoring. This emersive hands-on workshop series will guide you through essential geospatial python libraries, introduce you to cloud-native formats, show you how to harness cloud computing platforms, and help you build geospatial analyis pipelines. All fields and skill levels are welcome to attend, though basic knowledge of scripting languages (python/R) and familiarity with command line tools will be helpful. 
 
 
 Weekly Workshop - Tuesdays 2 pm 
