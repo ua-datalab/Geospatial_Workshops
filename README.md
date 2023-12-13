@@ -28,6 +28,6 @@ All fields and skill levels are welcome to attend, though basic knowledge of scr
 |    03/19 |  Google Earth Engine  | 
 |    03/26 |   Planet Data | 
 |   04/02  | Microsoft Planetary Computer | 
-|    04/09 |  OpenDroneMap & WebODM   | 
-|   04/16  |  Drone imagery analysis  | 
+|    04/09 |  OpenDroneMap   | 
+|   04/16  |  Drone Imagery Analysis  | 
 |    04/23 |   Containerized Pipelines |
