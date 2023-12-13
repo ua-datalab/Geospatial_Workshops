@@ -1,5 +1,5 @@
 # NextGen Geospatial 
-## Geospatial Data Science Workshop Series at the University of Arizona
+## Data Science Workshop Series at the University of Arizona
 |      |         |
 |  --- | ----  |
 | Dates | Jan. 16 - April 23, 2024 |
