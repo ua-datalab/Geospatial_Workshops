@@ -13,6 +13,7 @@ This emersive hands-on workshop series will guide you through essential geospati
 
 All fields and skill levels are welcome to attend, though basic knowledge of scripting languages (python/R) and familiarity with command line tools will be helpful. 
 
+Documentation for each lesson is found on the repository wiki https://github.com/ua-datalab/Geospatial_Workshops/wiki
 
 | Date |  Topic |
 | :--: | :-- |
