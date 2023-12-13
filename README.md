@@ -26,7 +26,7 @@ All fields and skill levels are welcome to attend, though basic knowledge of scr
 |   03/05 |   **Spring break** | 
 |    03/12 |   SpatioTemporal Asset Catalogs (STAC) | 
 |    03/19 |  Google Earth Engine  | 
-|    03/26 |   Planet Data | 
+|    03/26 |   Planet Satellite Imagery | 
 |   04/02  | Microsoft Planetary Computer | 
 |    04/09 |  OpenDroneMap   | 
 |   04/16  |  Drone Imagery Analysis  | 
