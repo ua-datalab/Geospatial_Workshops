@@ -20,11 +20,11 @@ All fields and skill levels are welcome to attend, though basic knowledge of scr
 | 01/23 |  File Data Formats: Raster & Vector|
 |  01/30   |  Visualization Libraries  |
 |    02/06 |   Intro Xarray & Zarr | 
-|   02/13  | Cloud Native   |
-|    02/20 |  COGs - Geotiff  | 
-|   02/27  |  COPC - Point Clouds | 
+|   02/13  | Intro to Cloud Native   |
+|    02/20 |  Cloud Optimized Geotiffs  | 
+|   02/27  |  Cloud Optimized Point Clouds | 
 |   03/05 |   **Spring break** | 
-|    03/12 |   STAC | 
+|    03/12 |   SpatioTemporal Asset Catalogs (STAC) | 
 |    03/19 |  Google Earth Engine  | 
 |    03/26 |   Planet Data | 
 |   04/02  | Microsoft Planetary Computer | 
