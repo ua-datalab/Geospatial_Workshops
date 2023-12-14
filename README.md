@@ -38,7 +38,7 @@ The series is expert-led by educators at the [University of Arizona Data Science
 <br/>
 <br/>
 
-<img src="https://datascience.arizona.edu/sites/default/files/styles/az_medium/public/2023-03/202206448_lizarraga_carlos-5481-Edit.jpg?itok=eadCJ6ZI" width=300>
+<img src="https://datascience.arizona.edu/sites/default/files/styles/az_medium/public/2023-03/202206448_lizarraga_carlos-5481-Edit.jpg?itok=eadCJ6ZI" width=250>
 
 [Carlos Lizarraga Ph.D](https://datascience.arizona.edu/person/carlos-lizarraga), is a computation and data science educator at The UA Data Science Institute. 
 
