@@ -26,9 +26,10 @@ The series is **FREE** and open to all University of Arizona personnel and is ta
 
 
 
-## The Teachers
+## The Instructors
 
-The series is expert-led by educators at the [University of Arizona Data Science Institute](https://datascience.arizona.edu/) and [Cyverse](https://cyverse.org/). Jeffrey Gillan Ph.D, is a research data scientist with Cyverse and has 15 years of experience in geospatial. Carlos Lizarraga ...
+The series is expert-led by educators at the [University of Arizona Data Science Institute](https://datascience.arizona.edu/) and [Cyverse](https://cyverse.org/). Jeffrey Gillan Ph.D, is a research data scientist with Cyverse and has 15 years of experience in geospatial science. He has expertise in drone-based photogrammetry, LiDAR, and hyperspectral image analysis. Carlos Lizarraga Ph.D, is a computation and data science educator at The UA Data Science Institute. 
+
 
 ## Prerequisites
 We welcome students and professionals from any field of study across the university. A variety of skill levels are also welcome, though each lesson will assume the audience has limited experience on topic. Basic knowledge of scripting languages (python/R), some prior geospatial experience, and familiarity with command line tools will be helpful. Please bring you laptop computer if you plan on attending in-person. Specific software installations and login requirements will be posted for each lesson. 
