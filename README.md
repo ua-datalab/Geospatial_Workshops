@@ -35,9 +35,12 @@ The series is expert-led by educators at the [University of Arizona Data Science
 <img src="/images/gillan_headshot_2023.jpg" width=300>
 
 [Jeffrey Gillan Ph.D](https://www.gillanscience.com), is a research data scientist with Cyverse and has 15 years of experience in geospatial science. He has expertise in drone-based photogrammetry, LiDAR, and hyperspectral image analysis. 
+<br/>
+<br/>
 
+<img src="https://datascience.arizona.edu/sites/default/files/styles/az_medium/public/2023-03/202206448_lizarraga_carlos-5481-Edit.jpg?itok=eadCJ6ZI" width=300>
 
-Carlos Lizarraga Ph.D, is a computation and data science educator at The UA Data Science Institute. 
+[Carlos Lizarraga Ph.D](https://datascience.arizona.edu/person/carlos-lizarraga), is a computation and data science educator at The UA Data Science Institute. 
 
 
 ## Prerequisites
