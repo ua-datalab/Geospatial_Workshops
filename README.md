@@ -1,7 +1,7 @@
 # NextGen Geospatial 
 ## Data Science Workshop Series at the University of Arizona
 
-<img src="/images/circuit_landscape.jpeg" width=600>
+<img src="/images/circuit_landscape.jpeg" width=500>
 
 |      |         |
 |  --- | ----  |
