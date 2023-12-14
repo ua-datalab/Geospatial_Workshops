@@ -32,7 +32,7 @@ The series is expert-led by educators at the [University of Arizona Data Science
 
 
 ## Prerequisites
-We welcome students and professionals from any field of study across the university. A variety of skill levels are also welcome, though each lesson will assume the audience has limited experience on topic. Basic knowledge of scripting languages (python/R), some prior geospatial experience, and familiarity with command line tools will be helpful. Please bring you laptop computer if you plan on attending in-person. Specific software installations and login requirements will be posted for each lesson. 
+We welcome students and professionals from any field of study across the university. A variety of skill levels are also welcome, though each lesson will assume the audience has limited experience on the topic. Basic knowledge of scripting languages (python/R), some prior geospatial experience, and familiarity with command line tools will be helpful. Please bring you laptop computer if you plan on attending in-person. Specific software installations and login requirements will be posted for each lesson. 
 
 
 ## Documentation
