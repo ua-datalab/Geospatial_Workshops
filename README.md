@@ -74,3 +74,8 @@ In addition to the live workshops, all of the lesson content will be openly avai
 |    04/23/24 |   [Containerized Pipelines](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Containerized-Pipelines) |
 
 
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="128">  [  CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab), Data Science Institute, University of Arizona, 2023.
+
+<img src="https://datascience.arizona.edu/sites/default/files/Data%20Science%20Institute_Webheader%20%281%29_0.svg" width="256">
