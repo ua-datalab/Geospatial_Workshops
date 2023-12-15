@@ -55,19 +55,19 @@ In addition to the live workshops, all of the lesson content will be openly avai
 
 | Date |  Topic |
 | :--: | :-- |
-|   01/16  |   Intro to Geospatial Data Science | 
-| 01/23 |  File Data Formats: Raster & Vector|
-|  01/30   |  Visualization Libraries  |
-|    02/06 |   Intro Xarray & Zarr | 
-|   02/13  | Intro to Cloud Native   |
-|    02/20 |  Cloud Optimized Geotiffs  | 
-|   02/27  |  Cloud Optimized Point Clouds | 
-|   03/05 |   **Spring break** | 
-|    03/12 |   SpatioTemporal Asset Catalogs (STAC) | 
-|    03/19 |  Google Earth Engine  | 
-|    03/26 |   Planet Satellite Imagery | 
-|   04/02  | Microsoft Planetary Computer | 
-|    04/09 |  OpenDroneMap   | 
-|   04/16  |  Drone Imagery Analysis  | 
-|    04/23 |   Containerized Pipelines |
+|   01/16/24  |   Intro to Geospatial Data Science | 
+| 01/23/24 |  File Data Formats: Raster & Vector|
+|  01/30/24   |  Visualization Libraries  |
+|    02/06/24 |   Intro Xarray & Zarr | 
+|   02/13/24  | Intro to Cloud Native   |
+|    02/20/24 |  Cloud Optimized Geotiffs  | 
+|   02/27/24  |  Cloud Optimized Point Clouds | 
+|   03/05/24 |   **Spring break** | 
+|    03/12/24 |   SpatioTemporal Asset Catalogs (STAC) | 
+|    03/19/24 |  Google Earth Engine  | 
+|    03/26/24 |   Planet Satellite Imagery | 
+|   04/02/24  | Microsoft Planetary Computer | 
+|    04/09/24 |  OpenDroneMap   | 
+|   04/16/24  |  Drone Imagery Analysis  | 
+|    04/23/24 |   Containerized Pipelines |
 
