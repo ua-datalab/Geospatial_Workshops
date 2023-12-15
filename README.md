@@ -10,6 +10,8 @@
 | Where | Weaver Science-Engineering Library Room 212 & Zoom |
 | Registration |     |
 
+<img src="/images/UA_datalab" width=500>
+
 ## About the Workshop 
 Step out of conventional GIS frameworks and discover the latest trends in geospatial data science where open tools, cloud technologies, and the proliferation of sensor data are innovating earth observation and environmental monitoring. 
 
