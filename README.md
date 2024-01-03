@@ -10,7 +10,7 @@
 | Dates | Jan. 16 - April 23, 2024 |
 | When | Tuesdays 2-3 pm Arizona Time | 
 | Where | Weaver Science-Engineering Library Room 212 & Zoom |
-| [Registration](https://uarizona.co1.qualtrics.com/jfe/form/SV_0SY1ZcMw0xJLxzw) |  [Zoom](http://tinyurl.com/uadatalab)  |
+| [Registration](https://uarizona.co1.qualtrics.com/jfe/form/SV_9Rfr1WtU3kfMXjw) |  [Zoom](http://tinyurl.com/uadatalab)  |
 
 <img src="/images/UA_datalab.png" width=150> &nbsp;&nbsp;&nbsp; <img src="/images/PoweredbyCyverse_LogoSquare0.png" width=100>
 ## About the Workshop 
