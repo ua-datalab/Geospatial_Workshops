@@ -2,7 +2,8 @@
 
 ## Data Science Workshop Series at the University of Arizona
 
-<img src="/images/circuit_landscape.jpeg" width=500>
+
+<img src="/images/geospatial_desktop_AI.png" width=500>
 
 |      |         |
 |  --- | ----  |
