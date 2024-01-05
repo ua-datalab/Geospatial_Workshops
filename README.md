@@ -58,7 +58,7 @@ In addition to the live workshops, all of the lesson content will be openly avai
 
 | Date |  Topic |
 | :--: | :-- |
-|   01/16/24  |   [Geospatial Data APIs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Intro-to-Geospatial-Data-Science) | 
+|   01/16/24  |   [Geospatial Data APIs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Geospatial-Data-APIs) | 
 | 01/23/24 |  [Python Data Formats: Raster & Vector](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Python-Data-Formats:-Raster-&-Vector)|
 |  01/30/24   |  [Python Visualization Libraries](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Python-Visualization-Libraries)  |
 |    02/06/24 |   [Intro Xarray & Zarr](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Intro-to-Xarray-&-Zarr) | 
