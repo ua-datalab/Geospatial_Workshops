@@ -61,10 +61,10 @@ In addition to the live workshops, all of the lesson content will be openly avai
 |   01/16/24  |   [Geospatial Data APIs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Geospatial-Data-APIs) | 
 | 01/23/24 |  [Python Data Formats: Raster & Vector](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Python-Libraries-for-Data-Formats:-Raster-and-Vector)|
 |  01/30/24   |  [Python Visualization Libraries](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Python-Visualization-Libraries)  |
-|    02/06/24 |   [Intro Xarray & Zarr](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Intro-to-Xarray-&-Zarr) | 
-|   02/13/24  | [Intro to Cloud Native](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Intro-to-Cloud-Native)   |
-|    02/20/24 |  [Cloud Optimized Geotiffs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Cloud-Optimized-Geotiffs)  | 
-|   02/27/24  |  [Cloud Optimized Point Clouds](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Cloud-Optimized-Point-Clouds) | 
+|    02/06/24 | [Intro to Cloud Native & Cyverse](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Intro-to-Cloud-Native)   | 
+|   02/13/24  |  [Cloud Optimized Geotiffs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Cloud-Optimized-Geotiffs)  |
+|    02/20/24 |  [Cloud Optimized Point Clouds](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Cloud-Optimized-Point-Clouds)  | 
+|   02/27/24  |  [Intro Xarray & Zarr](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Intro-to-Xarray-&-Zarr) | 
 |   03/05/24 |   **Spring break** | 
 |    03/12/24 |   [SpatioTemporal Asset Catalogs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/SpatioTemporal-Asset-Catalogs-(STAC)) | 
 |    03/19/24 |  [Google Earth Engine](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Google-Earth-Engine)  | 
