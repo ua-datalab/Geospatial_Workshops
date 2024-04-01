@@ -61,18 +61,18 @@ In addition to the live workshops, all of the lesson content will be openly avai
 |   01/16/24  |   [Geospatial Data APIs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Geospatial-Data-APIs) | 
 | 01/23/24 |  [Python Data Formats: Raster & Vector](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Python-Libraries-for-Data-Formats:-Raster-and-Vector)|
 |  01/30/24   |  [Python Visualization Libraries](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Python-Visualization-Libraries)  |
-|    02/06/24 | [Intro to Cloud Native & Cyverse](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Intro-to-Cloud-Native)   | 
+|    02/06/24 |  [Intro to Cloud Native](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Intro-to-Cloud-Native)  | 
 |   02/13/24  |  [Cloud Optimized Geotiffs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Cloud-Optimized-Geotiffs)  |
-|    02/20/24 |  [Cloud Optimized Point Clouds](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Cloud-Optimized-Point-Clouds)  | 
-|   02/27/24  |  [Intro to Zarr & Xarray](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Intro-to-Zarr-&-Xarray) | 
+|    02/20/24 |   [Cloud Optimized Point Clouds](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Cloud-Optimized-Point-Clouds) | 
+|   02/27/24  |   [Intro to Zarr & Xarray](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Intro-to-Zarr-&-Xarray)| 
 |   03/05/24 |   **Spring break** | 
 |    03/12/24 |   [SpatioTemporal Asset Catalogs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/SpatioTemporal-Asset-Catalogs-(STAC)) | 
-|    03/19/24 |  [Google Earth Engine](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Google-Earth-Engine)  | 
-|    03/26/24 |   [Planet Satellite Imagery](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Planet-Satellite-Imagery) | 
+|    03/19/24 |    | 
+|    03/26/24 |   [Google Earth Engine](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Google-Earth-Engine) | 
 |   04/02/24  | [Microsoft Planetary Computer](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Microsoft-Planetary-Computer) | 
-|    04/09/24 |  [OpenDroneMap](https://github.com/ua-datalab/Geospatial_Workshops/wiki/OpenDroneMap)   | 
-|   04/16/24  |  [Drone Imagery Analysis](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Drone-Imagery-Analysis)  | 
-|    04/23/24 |   [Containerized Pipelines](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Containerized-Pipelines) |
+|    04/09/24 |     | 
+|   04/16/24  |  [Containerized Pipelines](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Containerized-Pipelines) | 
+|    04/23/24 |   [Planet Satellite Imagery with Austin Stone](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Planet-Satellite-Imagery) |
 
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="128">  [  CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
