@@ -73,6 +73,7 @@ In addition to the live workshops, all of the lesson content will be openly avai
 |    04/09/24 |     | 
 |   04/16/24  |  [Containerized Pipelines](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Containerized-Pipelines) | 
 |    04/23/24 |   [Planet Satellite Imagery with Austin Stone](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Planet-Satellite-Imagery) |
+| 04/30/24 | [Drone Image Analysis - Deep Forest](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Drone-Image-Analysis-%E2%80%90-Deep-Forest) |
 
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="128">  [  CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
