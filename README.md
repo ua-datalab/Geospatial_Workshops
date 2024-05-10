@@ -3,14 +3,14 @@
 ## Data Science Workshop Series at the University of Arizona
 
 
-<img src="/images/geospatial_desktop_AI.png" width=500>
+<img src="/images/geospatial_desktop_AI.png" width=700>
 
 |      |         |
 |  --- | ----  |
-| Dates | Jan. 16 - April 23, 2024 |
+| Dates | Sept. 3 - October 29, 2024 |
 | When | Tuesdays 2-3 pm Arizona Time | 
 | Where | Weaver Science-Engineering Library Room 212 & Zoom |
-| [Registration](https://uarizona.co1.qualtrics.com/jfe/form/SV_9Rfr1WtU3kfMXjw) |  [Zoom](http://tinyurl.com/uadatalab)  |
+| [Registration] |  [Zoom] | Feeback Form
 
 <img src="/images/UA_datalab.png" width=150> &nbsp;&nbsp;&nbsp; <img src="/images/PoweredbyCyverse_LogoSquare0.png" width=100>
 ## About the Workshop 
