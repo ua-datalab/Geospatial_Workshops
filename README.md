@@ -58,15 +58,15 @@ In addition to the live workshops, all of the lesson content will be openly avai
 
 | Date |  Topic |
 | :--: | :-- |
-|   09/03/24  |   [Geospatial Data APIs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Geospatial-Data-APIs) | 
-| 09/10/24 |  [Python Data Formats: Raster & Vector](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Python-Libraries-for-Data-Formats:-Raster-and-Vector)|
-|  09/17/24   |  [Python Visualization Libraries](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Python-Visualization-Libraries)  |
-|    09/24/24 |  [Intro to Cloud Native](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Intro-to-Cloud-Native)  | 
-|   10/01/24  |  [Cloud Optimized Geotiffs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Cloud-Optimized-Geotiffs)  |
-|    10/08/24 |   [Cloud Optimized Point Clouds](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Cloud-Optimized-Point-Clouds) | 
-|   10/15/24  |   [Intro to Zarr & Xarray](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Intro-to-Zarr-&-Xarray)| 
-|   10/22/24 |   **Spring break** | 
-|    10/29/24 |   [SpatioTemporal Asset Catalogs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/SpatioTemporal-Asset-Catalogs-(STAC)) | 
+|   09/03/24  | Planet Imagery   | 
+| 09/10/24 |  | Geospatial APIs |
+|  09/17/24   |  DeepForest & Detecto |
+|    09/24/24 |  Cyverse Geospatial | 
+|   10/01/24  |  Google Earth Engine  |
+|    10/08/24 | Microsoft Planetary Computer | 
+|   10/15/24  | Geospatial Pipelines | 
+|   10/22/24 |  Cloud Native | 
+|    10/29/24 |    | 
 
 
 
