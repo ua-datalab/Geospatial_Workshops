@@ -59,7 +59,7 @@ In addition to the live workshops, all of the lesson content will be openly avai
 | Date |  Topic |
 | :--: | :-- |
 |   09/03/24  | Planet Imagery   | 
-| 09/10/24 |  | Cloud Native Formats |
+| 09/10/24   | Cloud Native Formats |
 |  09/17/24   |  Cyverse Geospatial |
 |    09/24/24 |  Google Earth Engine | 
 |   10/01/24  |  Microsoft Planetary Computer  |
