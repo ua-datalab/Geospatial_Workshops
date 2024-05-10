@@ -59,14 +59,14 @@ In addition to the live workshops, all of the lesson content will be openly avai
 | Date |  Topic |
 | :--: | :-- |
 |   09/03/24  | Planet Imagery   | 
-| 09/10/24 |  | Geospatial APIs |
-|  09/17/24   |  DeepForest & Detecto |
-|    09/24/24 |  Cyverse Geospatial | 
-|   10/01/24  |  Google Earth Engine  |
-|    10/08/24 | Microsoft Planetary Computer | 
+| 09/10/24 |  | Cloud Native Formats |
+|  09/17/24   |  Cyverse Geospatial |
+|    09/24/24 |  Google Earth Engine | 
+|   10/01/24  |  Microsoft Planetary Computer  |
+|    10/08/24 | DeepForest & Detecto | 
 |   10/15/24  | Geospatial Pipelines | 
-|   10/22/24 |  Cloud Native | 
-|    10/29/24 |    | 
+|   10/22/24 | SpatioTemporal Asset Catalogs (STAC)  | 
+|    10/29/24 |  Geospatial APIs  | 
 
 
 
