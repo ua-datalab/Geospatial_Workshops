@@ -10,8 +10,8 @@
 | Dates | Sept. 3 - October 29, 2024 |
 | When | Tuesdays 2-3 pm Arizona Time | 
 | Where | Weaver Science-Engineering Library Room 212 & Zoom |
-| [Registration] |  [Zoom] | Feeback Form
-
+| [Registration] |  [Zoom] | 
+| Feeback Form |
 <img src="/images/UA_datalab.png" width=150> &nbsp;&nbsp;&nbsp; <img src="/images/PoweredbyCyverse_LogoSquare0.png" width=100>
 ## About the Workshop 
 Step out of conventional GIS frameworks and discover the latest trends in geospatial data science where open tools, cloud technologies, and the proliferation of sensor data are innovating earth observation and environmental monitoring. 
