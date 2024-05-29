@@ -32,7 +32,7 @@ The series is **FREE** and open to all University of Arizona personnel and is ta
 
 
 
-## The Instructors
+## The Instructor
 
 The series is expert-led by educators at the [University of Arizona Data Science Institute](https://datascience.arizona.edu/) and [Cyverse](https://cyverse.org/). 
 <br/>
