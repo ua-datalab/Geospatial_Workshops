@@ -12,7 +12,7 @@
 | When | Tuesdays 2-3 pm Arizona Time | 
 | Where | Weaver Science-Engineering Library Room 212 & [Zoom] |
 
-[Worshop Registration]   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Feeback Form]  &nbsp;&nbsp; [Youtube Playlist](https://www.youtube.com/playlist?list=PLohiBOvMMwCsICfZRYmnAIW3xNb1Gvpis)
+[Worshop Registration]   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Feeback Form]  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Youtube Playlist](https://www.youtube.com/playlist?list=PLohiBOvMMwCsICfZRYmnAIW3xNb1Gvpis)
 
 <br/>
 <br/>
