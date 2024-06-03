@@ -11,8 +11,14 @@
 | Dates | Sept. 3 - October 29, 2024 |
 | When | Tuesdays 2-3 pm Arizona Time | 
 | Where | Weaver Science-Engineering Library Room 212 & Zoom |
-| [Registration] |  [Zoom] | 
-| Feeback Form | [Youtube Playlist](https://www.youtube.com/playlist?list=PLohiBOvMMwCsICfZRYmnAIW3xNb1Gvpis)
+
+[Worshop Registration]   
+ 
+[Zoom Link]
+
+[Feeback Form]
+
+[Youtube Playlist](https://www.youtube.com/playlist?list=PLohiBOvMMwCsICfZRYmnAIW3xNb1Gvpis)
 
 <br/>
 <br/>
