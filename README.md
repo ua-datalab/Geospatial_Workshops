@@ -6,7 +6,7 @@
 
 <img src="/images/geospatial_desktop_AI.png" width=700>
 
-|    Workshop Information       |
+|    | Workshop Information       |
 |  --- | ----  |
 | Dates | Sept. 3 - October 29, 2024 |
 | When | Tuesdays 2-3 pm Arizona Time | 
