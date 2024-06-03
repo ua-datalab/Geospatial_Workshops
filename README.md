@@ -1,7 +1,7 @@
 # NextGen Geospatial 
 
 ### Data Science Workshop Series at the University of Arizona
-<img src="/images/UA_datalab.png" width=150> &nbsp;&nbsp;&nbsp; <img src="/images/PoweredbyCyverse_LogoSquare0.png" width=100>
+<img src="/images/UA_datalab.png" width=100> &nbsp;&nbsp;&nbsp; <img src="/images/PoweredbyCyverse_LogoSquare0.png" width=67>
 
 
 <img src="/images/geospatial_desktop_AI.png" width=700>
