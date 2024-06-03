@@ -56,15 +56,15 @@ In addition to the live workshops, all of the lesson content will be openly avai
 
 | Date |  Topic |
 | :--: | :-- |
-|   09/03/24  | Cyverse Geospatial   | 
-| 09/10/24   | Google Earth Engine |
-|  09/17/24   | Image Object Detection with DeepForest  |
+|   09/03/24  | [Cyverse Geospatial](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Intro-to-Cloud-Native)   | 
+| 09/10/24   | [Google Earth Engine](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Google-Earth-Engine) |
+|  09/17/24   | [Image Object Detection with DeepForest](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Drone-Image-Analysis-%E2%80%90-Deep-Forest)  |
 |    09/24/24 | Image Object Detection with Detecto  | 
-|   10/01/24  |  Cloud Native Formats: COGs & COPC  |
-|    10/08/24 | Cloud Native Formats: Zarr & FlatGeoBuf | 
-|   10/15/24  | Geospatial Pipelines | 
-|   10/22/24 | SpatioTemporal Asset Catalogs (STAC)  | 
-|    10/29/24 |  Geospatial APIs  | 
+|   10/01/24  |  Cloud Native Formats: [Cloud Optimized Geotiffs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Cloud-Optimized-Geotiffs) & [Cloud Optimized Point Clouds](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Cloud-Optimized-Point-Clouds)  |
+|    10/08/24 | Cloud Native Formats: [Zarr]((https://github.com/ua-datalab/Geospatial_Workshops/wiki/Intro-to-Zarr-&-Xarray) & FlatGeoBuf | 
+|   10/15/24  | [Containerized Pipelines](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Containerized-Pipelines) | 
+|   10/22/24 | [SpatioTemporal Asset Catalogs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/SpatioTemporal-Asset-Catalogs-(STAC))  | 
+|    10/29/24 |  [Geospatial Data APIs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Geospatial-Data-APIs)  | 
 
 
 
