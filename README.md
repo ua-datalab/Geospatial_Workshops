@@ -6,13 +6,13 @@
 
 <img src="/images/geospatial_desktop_AI.png" width=700>
 
-|      |         |
+|    Workshop Information       |
 |  --- | ----  |
 | Dates | Sept. 3 - October 29, 2024 |
 | When | Tuesdays 2-3 pm Arizona Time | 
 | Where | Weaver Science-Engineering Library Room 212 & Zoom |
 | [Registration] |  [Zoom] | 
-| Feeback Form |
+| Feeback Form | [Youtube Playlist](https://www.youtube.com/playlist?list=PLohiBOvMMwCsICfZRYmnAIW3xNb1Gvpis)
 
 <br/>
 <br/>
