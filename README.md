@@ -71,15 +71,8 @@ We welcome students and professionals from any field of study across the univers
 ## Documentation
 In addition to the live workshops, all of the lesson content will be openly available in the Github repository wiki https://github.com/ua-datalab/Geospatial_Workshops/wiki
 
-
-
-
-
-
-
-
-
-
+<br/>
+<br/>
 
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="128">  [  CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
