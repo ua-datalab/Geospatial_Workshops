@@ -44,10 +44,6 @@ The series is expert-led by educators at the [University of Arizona Data Science
 <br/>
 <br/>
 
-<img src="https://datascience.arizona.edu/sites/default/files/styles/az_medium/public/2023-03/202206448_lizarraga_carlos-5481-Edit.jpg?itok=eadCJ6ZI" width=250>
-
-[Carlos Lizarraga Ph.D](https://datascience.arizona.edu/person/carlos-lizarraga), is a computation and data science educator at The UA Data Science Institute. 
-
 
 ## Prerequisites
 We welcome students and professionals from any field of study across the university. A variety of skill levels are also welcome, though each lesson will assume the audience has limited experience on the topic. Basic knowledge of scripting languages (python/R), some prior geospatial experience, and familiarity with command line tools will be helpful. We will be doing gentle live coding during the sessions. Please bring you laptop computer if you plan on attending in-person. Specific software installations and login requirements will be posted for each lesson. 
@@ -62,10 +58,10 @@ In addition to the live workshops, all of the lesson content will be openly avai
 | :--: | :-- |
 |   09/03/24  | Cyverse Geospatial   | 
 | 09/10/24   | Google Earth Engine |
-|  09/17/24   | Microsoft Planetary Computer  |
-|    09/24/24 | Cloud Native Formats: COGs & COPC  | 
-|   10/01/24  |  Cloud Native Formats: Zarr & FlatGeoBuf  |
-|    10/08/24 | DeepForest & Detecto | 
+|  09/17/24   | Image Object Detection with DeepForest  |
+|    09/24/24 | Image Object Detection with Detecto  | 
+|   10/01/24  |  Cloud Native Formats: COGs & COPC  |
+|    10/08/24 | Cloud Native Formats: Zarr & FlatGeoBuf | 
 |   10/15/24  | Geospatial Pipelines | 
 |   10/22/24 | SpatioTemporal Asset Catalogs (STAC)  | 
 |    10/29/24 |  Geospatial APIs  | 
