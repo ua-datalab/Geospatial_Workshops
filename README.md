@@ -49,7 +49,8 @@ Each workshop session is designed to be a discrete lesson where students will wa
 
 The series is **FREE** and open to all University of Arizona personnel and is tailored for graduate students, postdocs, and early career faculty looking to expand their geospatial skills. 
 
-
+<br/>
+<br/>
 
 ## The Instructor
 
