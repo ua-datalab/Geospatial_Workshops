@@ -40,10 +40,9 @@ Step out of conventional GIS frameworks and discover the latest trends in geospa
 
 Emphasizing open science and reproducible methods, this immersive hands-on workshop series will:
 
-* Guide you through essential geospatial python libraries
-* Introduce you to cloud-native formats
 * Show you how to harness cloud computing platforms
-* Mentor you in open-source drone imagery analysis
+* Demonstrate Deep Learning workflows for remoteley sensed imagery
+* Introduce you to cloud-native formats
 * Help you build geospatial analysis pipelines
 
 Each workshop session is designed to be a discrete lesson where students will walk away with specific knowledge on a tool and resources to explore deeper. Our goal is to cover material that is not currently being taught in credited classes at U of A.  
