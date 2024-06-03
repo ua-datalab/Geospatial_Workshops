@@ -14,6 +14,21 @@
 | Feeback Form |
 
 
+## Schedule Fall 2024
+
+| Date |  Topic |
+| :--: | :-- |
+|   09/03/24  | [Cyverse Geospatial](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Intro-to-Cloud-Native)   | 
+| 09/10/24   | [Google Earth Engine](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Google-Earth-Engine) |
+|  09/17/24   | [Image Object Detection with DeepForest](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Drone-Image-Analysis-%E2%80%90-Deep-Forest)  |
+|    09/24/24 | Image Object Detection with Detecto  | 
+|   10/01/24  |  Cloud Native Formats: [Cloud Optimized Geotiffs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Cloud-Optimized-Geotiffs) & [Cloud Optimized Point Clouds](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Cloud-Optimized-Point-Clouds)  |
+|    10/08/24 | Cloud Native Formats: [Zarr]((https://github.com/ua-datalab/Geospatial_Workshops/wiki/Intro-to-Zarr-&-Xarray) & FlatGeoBuf | 
+|   10/15/24  | [Containerized Pipelines](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Containerized-Pipelines) | 
+|   10/22/24 | [SpatioTemporal Asset Catalogs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/SpatioTemporal-Asset-Catalogs-(STAC))  | 
+|    10/29/24 |  [Geospatial Data APIs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Geospatial-Data-APIs)  | 
+
+
 <img src="/images/UA_datalab.png" width=150> &nbsp;&nbsp;&nbsp; <img src="/images/PoweredbyCyverse_LogoSquare0.png" width=100>
 ## About the Workshop 
 Step out of conventional GIS frameworks and discover the latest trends in geospatial data science where open tools, cloud technologies, and the proliferation of sensor data are innovating earth observation and environmental monitoring. 
@@ -52,19 +67,6 @@ We welcome students and professionals from any field of study across the univers
 ## Documentation
 In addition to the live workshops, all of the lesson content will be openly available in the Github repository wiki https://github.com/ua-datalab/Geospatial_Workshops/wiki
 
-## Schedule Fall 2024
-
-| Date |  Topic |
-| :--: | :-- |
-|   09/03/24  | [Cyverse Geospatial](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Intro-to-Cloud-Native)   | 
-| 09/10/24   | [Google Earth Engine](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Google-Earth-Engine) |
-|  09/17/24   | [Image Object Detection with DeepForest](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Drone-Image-Analysis-%E2%80%90-Deep-Forest)  |
-|    09/24/24 | Image Object Detection with Detecto  | 
-|   10/01/24  |  Cloud Native Formats: [Cloud Optimized Geotiffs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Cloud-Optimized-Geotiffs) & [Cloud Optimized Point Clouds](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Cloud-Optimized-Point-Clouds)  |
-|    10/08/24 | Cloud Native Formats: [Zarr]((https://github.com/ua-datalab/Geospatial_Workshops/wiki/Intro-to-Zarr-&-Xarray) & FlatGeoBuf | 
-|   10/15/24  | [Containerized Pipelines](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Containerized-Pipelines) | 
-|   10/22/24 | [SpatioTemporal Asset Catalogs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/SpatioTemporal-Asset-Catalogs-(STAC))  | 
-|    10/29/24 |  [Geospatial Data APIs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Geospatial-Data-APIs)  | 
 
 
 
@@ -72,26 +74,8 @@ In addition to the live workshops, all of the lesson content will be openly avai
 
 
 
-## Schedule Spring 2024
 
-| Date |  Topic |
-| :--: | :-- |
-|   01/16/24  |   [Geospatial Data APIs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Geospatial-Data-APIs) | 
-| 01/23/24 |  [Python Data Formats: Raster & Vector](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Python-Libraries-for-Data-Formats:-Raster-and-Vector)|
-|  01/30/24   |  [Python Visualization Libraries](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Python-Visualization-Libraries)  |
-|    02/06/24 |  [Intro to Cloud Native](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Intro-to-Cloud-Native)  | 
-|   02/13/24  |  [Cloud Optimized Geotiffs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Cloud-Optimized-Geotiffs)  |
-|    02/20/24 |   [Cloud Optimized Point Clouds](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Cloud-Optimized-Point-Clouds) | 
-|   02/27/24  |   [Intro to Zarr & Xarray](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Intro-to-Zarr-&-Xarray)| 
-|   03/05/24 |   **Spring break** | 
-|    03/12/24 |   [SpatioTemporal Asset Catalogs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/SpatioTemporal-Asset-Catalogs-(STAC)) | 
-|    03/19/24 |    | 
-|    03/26/24 |   [Google Earth Engine](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Google-Earth-Engine) | 
-|   04/02/24  | [Microsoft Planetary Computer](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Microsoft-Planetary-Computer) | 
-|    04/09/24 |     | 
-|   04/16/24  |  [Containerized Pipelines](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Containerized-Pipelines) | 
-|    04/23/24 |   [Planet Satellite Imagery with Austin Stone](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Planet-Satellite-Imagery) |
-| 04/30/24 | [Drone Image Analysis - Deep Forest](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Drone-Image-Analysis-%E2%80%90-Deep-Forest) |
+
 
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="128">  [  CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
