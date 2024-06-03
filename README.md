@@ -13,6 +13,8 @@
 | [Registration] |  [Zoom] | 
 | Feeback Form |
 
+<br/>
+<br/>
 
 ## Schedule Fall 2024
 
@@ -23,11 +25,13 @@
 |  09/17/24   | [Image Object Detection with DeepForest](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Drone-Image-Analysis-%E2%80%90-Deep-Forest)  |
 |    09/24/24 | Image Object Detection with Detecto  | 
 |   10/01/24  |  Cloud Native Formats: [Cloud Optimized Geotiffs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Cloud-Optimized-Geotiffs) & [Cloud Optimized Point Clouds](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Cloud-Optimized-Point-Clouds)  |
-|    10/08/24 | Cloud Native Formats: [Zarr]((https://github.com/ua-datalab/Geospatial_Workshops/wiki/Intro-to-Zarr-&-Xarray) & FlatGeoBuf | 
+|    10/08/24 | Cloud Native Formats: [Zarr](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Intro-to-Zarr-&-Xarray) & FlatGeoBuf | 
 |   10/15/24  | [Containerized Pipelines](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Containerized-Pipelines) | 
 |   10/22/24 | [SpatioTemporal Asset Catalogs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/SpatioTemporal-Asset-Catalogs-(STAC))  | 
 |    10/29/24 |  [Geospatial Data APIs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Geospatial-Data-APIs)  | 
 
+<br/>
+<br/>
 
 <img src="/images/UA_datalab.png" width=150> &nbsp;&nbsp;&nbsp; <img src="/images/PoweredbyCyverse_LogoSquare0.png" width=100>
 ## About the Workshop 
@@ -80,6 +84,6 @@ In addition to the live workshops, all of the lesson content will be openly avai
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="128">  [  CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-[UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab), Data Science Institute, University of Arizona, 2023.
+[UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab), Data Science Institute, University of Arizona, 2024.
 
 <img src="https://datascience.arizona.edu/sites/default/files/Data%20Science%20Institute_Webheader%20%281%29_0.svg" width="256">
