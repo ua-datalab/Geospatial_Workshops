@@ -27,9 +27,12 @@ Emphasizing open science and reproducible methods, this immersive hands-on works
 * Introduce you to cloud-native formats
 * Help you build geospatial analysis pipelines
 
-Each workshop session is designed to be a discrete lesson where students will walk away with specific knowledge on a tool and resources to explore deeper. Our goal is to cover material that is not currently being taught in credited classes at U of A.  
+Each workshop session is designed to be a discrete lesson where students will walk away with specific knowledge on a tool and resources to explore deeper. Our goal is to demystify vocabulary and show you how to use these tools with straight forward examples. We hope to cover material that is not currently being taught in credited classes at U of A.  
 
 The series is **FREE** and open to all University of Arizona personnel and is tailored for graduate students, postdocs, and early career faculty looking to expand their geospatial skills. 
+
+<br/>
+<br/>
 
 ## Schedule Fall 2024
 
