@@ -17,24 +17,6 @@
 <br/>
 <br/>
 
-## Schedule Fall 2024
-
-| Date |  Topic |
-| :--: | :-- |
-|   09/03/24  | [Cyverse Geospatial](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Intro-to-Cloud-Native)   | 
-| 09/10/24   | [Google Earth Engine](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Google-Earth-Engine) |
-|  09/17/24   | [Image Object Detection with DeepForest](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Drone-Image-Analysis-%E2%80%90-Deep-Forest)  |
-|    09/24/24 | Image Object Detection with Detecto  | 
-|   10/01/24  |  Cloud Native Formats: [Cloud Optimized Geotiffs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Cloud-Optimized-Geotiffs) & [Cloud Optimized Point Clouds](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Cloud-Optimized-Point-Clouds)  |
-|    10/08/24 | Cloud Native Formats: [Zarr](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Intro-to-Zarr-&-Xarray) & FlatGeoBuf | 
-|   10/15/24  | [Containerized Pipelines](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Containerized-Pipelines) | 
-|   10/22/24 | [SpatioTemporal Asset Catalogs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/SpatioTemporal-Asset-Catalogs-(STAC))  | 
-|    10/29/24 |  [Geospatial Data APIs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Geospatial-Data-APIs)  | 
-
-<br/>
-<br/>
-
-
 ## About the Workshop 
 Step out of conventional GIS frameworks and discover the latest trends in geospatial data science where open tools, cloud technologies, and the proliferation of sensor data are innovating earth observation and environmental monitoring. 
 
@@ -49,8 +31,26 @@ Each workshop session is designed to be a discrete lesson where students will wa
 
 The series is **FREE** and open to all University of Arizona personnel and is tailored for graduate students, postdocs, and early career faculty looking to expand their geospatial skills. 
 
+## Schedule Fall 2024
+
+| Date |  Topic | Description |
+| :--: | :--: | :-- |
+|   09/03/24  | [Cyverse Geospatial](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Cyverse-Geospatial)   | Join us to explore Cyverse, a one-of-a-kind cloud computing and storage platform designed for Open Science and a powerful tool for geospatial data analysis. Learn how Cyverse can be leveraged to help you store, analyze, and share data for your geospatial research. Attendees will also learn how to get free access to [Planet satellite imagery](https://www.planet.com) and free use of photogrammetry software [Agisoft Metashape](https://www.agisoft.com/). 
+| 09/10/24   | [Google Earth Engine](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Google-Earth-Engine) | Join us as we introduce Google Earth Engine, a revolutionary cloud-based platform for planetary-scale environmental data analysis. This workshop will show you how to access the platform, the basics of how to navigate the software, and tips for leveraging the massive data catalog. We will show you code examples, app examples, and point you to resources on how to learn more about the powerful tool. This is a must-know tool for geospatial data analysts!
+|  09/17/24   | [Image Object Detection with DeepForest](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Drone-Image-Analysis-%E2%80%90-Deep-Forest)  | Have you wanted to get into geospatial deep learning but aren't sure how? This session demonstrates the use of the python library DeepForest for detecting trees (or birds) in high-resolution aerial imagery. DeepForest uses the powerful deep learning framework Pytorch, but reduces the complexity for researchers more focused on forestry and ecology. Using python code in a jupyter notebook, we will demonstrate workflows to run existing tree detection models, as well as how to fine-tune a model for your area of interest. An existed account with [Cyverse](https://cyverse.org/) is necessary to follow along in the jupyter notebook.  |
+|    09/24/24 | Image Object Detection with Detecto  | |
+|   10/01/24  |  Cloud Native Formats: [Cloud Optimized Geotiffs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Cloud-Optimized-Geotiffs)  | As geospatial datasets proliferate and expand in size, the distribution model of downloading all data to your local machine is starting to break down. Come learn about Cloud-Native geospatial formats that empower us to stream data across the web. Whether you want analyze heavy data or share your data with the world, understanding cloud-native concepts will up your geospatial data skills. This session will introduce cloud optimized geotiffs (COGs) and provide you with python code to get started. 
+|    10/08/24 | Cloud Native Formats: [Cloud Optimized Point Clouds](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Cloud-Optimized-Point-Clouds)  | This session will continue on the topic of cloud-native formats and focus specifically on cloud-optimized point clouds (COPC). Point cloud formats such as .las for LiDAR and photogrammetry are often heavy and difficult to move around the web. But once we convert it to a cloud-optimized format, we can easily share data out to visualize in a web browser or for analysis in a jupyter notebook. We will show you how to create, share, and work with COPC data. 
+|   10/15/24  | [Containerized Pipelines](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Containerized-Pipelines) | How you ever downloaded someone else's code and it wouldn't run on you machine? You are not alone! Reproducible analysis code is a significant problem and a serious drag on Open Science and building on each other's work. Fortunately, there are software technologies that can help us out. In this session, we will cover the basics of software containers (i.e., Docker) and then show you how they can be sequenced to form reproducible analysis pipelines. As an example, we will process drone imagery using OpenDroneMap, and analyze drone point clouds using PDAL.  |
+|   10/22/24 | [Geospatial Data APIs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/Geospatial-Data-APIs)  | Geospatial datasets can increasingly be searched for and downloaded through scripting languages. For those looking to automate data download and scale their data analysis beyond point-and-click computing, we will show you how to use data Applications Programming Interfaces (APIs). The focus of the session will be acquiring Planet satellite imagery in a python environment. |
+|    10/29/24 |  [SpatioTemporal Asset Catalogs](https://github.com/ua-datalab/Geospatial_Workshops/wiki/SpatioTemporal-Asset-Catalogs-(STAC))  | As geospatial datasets proliferate across the web, they are often isolated, difficult to discover, and lack consistent metadata. To overcome these challenges many geospatial companies and government agencies are adopting the use of SpatioTemporal Asset Catalogs (STAC). STAC consists of a standard metadata format (geojson) for describing the spatial and temporal characteristics of geospatial data. It also consists of a standard API which makes it easier to programmatically access and use the data. Come learn how this technology works and help us build an open and global catalog of geospatial data!
+
+
+
 <br/>
 <br/>
+
+
 
 ## The Instructor
 
