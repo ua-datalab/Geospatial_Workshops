@@ -31,6 +31,9 @@ Each workshop session is designed to be a discrete lesson where students will wa
 
 The series is **FREE** and open to all University of Arizona personnel and is tailored for graduate students, postdocs, and early career faculty looking to expand their geospatial skills. 
 
+We welcome students and professionals from any field of study across the university. A variety of skill levels are also welcome, though each lesson will assume the audience has limited experience on the topic. Basic knowledge of scripting languages (python/R) and some prior geospatial experience will be helpful. Some of the lessons will include gentle live coding, but the focus will be on the big picture of what the code is doing. Jupyter notebooks with pre-written python code will be provided for several of the lessons. 
+
+
 <br/>
 <br/>
 
@@ -63,13 +66,12 @@ The series is expert-led by educators at the [University of Arizona Data Science
 
 <img src="/images/gillan_headshot_2023.jpg" width=300>
 
-[Jeffrey Gillan Ph.D](https://www.gillanscience.com), is a research data scientist with Cyverse and has 15 years of experience in geospatial science. He has expertise in drone-based photogrammetry, LiDAR, and hyperspectral image analysis. 
+[Jeffrey Gillan Ph.D](https://www.gillanscience.com), is a research data scientist with Cyverse and has 15 years of experience in geospatial science. His remote sensing expertise includes drone-based photogrammetry, LiDAR, and hyperspectral image analysis. 
+
+Dr. Gillan is available for consulations and collaborations if you are looking to incorporate geospatial data science in your research or grant proposal. 
+
 <br/>
 <br/>
-
-
-## Prerequisites
-We welcome students and professionals from any field of study across the university. A variety of skill levels are also welcome, though each lesson will assume the audience has limited experience on the topic. Basic knowledge of scripting languages (python/R), some prior geospatial experience, and familiarity with command line tools will be helpful. We will be doing gentle live coding during the sessions. Please bring you laptop computer if you plan on attending in-person. Specific software installations and login requirements will be posted for each lesson. 
 
 
 ## Documentation
