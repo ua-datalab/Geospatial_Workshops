@@ -29,7 +29,7 @@ Emphasizing open science and reproducible methods, this immersive hands-on works
 
 Each workshop session is designed to be a discrete lesson where students will walk away with specific knowledge on a tool and resources to explore deeper. Our goal is to demystify vocabulary and show you how to use these tools with straight forward examples. We hope to cover material that is not currently being taught in credited classes at U of A.  
 
-The series is **FREE** and open to all University of Arizona personnel and is tailored for graduate students, postdocs, and early career faculty looking to expand their geospatial skills. 
+The series is **FREE** and open to all University of Arizona personnel and is tailored for graduate students, postdocs, and early career faculty looking to expand their geospatial skills. Please [register here for the workshop](https://uarizona.co1.qualtrics.com/jfe/form/SV_6EwvE8pKzvNI9Mi)
 
 We welcome students and professionals from any field of study across the university. A variety of skill levels are also welcome, though each lesson will assume the audience has limited experience on the topic. Basic knowledge of scripting languages (python/R) and some prior geospatial experience will be helpful. Some of the lessons will include gentle live coding, but the focus will be on the big picture of what the code is doing. Jupyter notebooks with pre-written python code will be provided for several of the lessons. 
 
